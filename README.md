@@ -17,5 +17,3 @@ Faço curso técnico e integrado em informática no <a href='https://ifpb.edu.br
 <div align='center'>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur13&show_icons=true&theme=radical" />  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur13&layout=compact&theme=radical" />
 </div>
-
-  
