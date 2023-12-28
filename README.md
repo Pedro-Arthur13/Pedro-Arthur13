@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello There 🖖🏻, sou Pedro Arthur
+## Sobre mim
+Estou iniciando no mundo da programação e suas tecnologias.   
+Apaixonado por física e programação.  
+Faço curso técnico e integrado em informática no <a href='https://ifpb.edu.br/'>IFPB</a> Campus Cajazeiras-PB.
 
-<!--
-**Pedro-Arthur13/Pedro-Arthur13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre meus conhecimentos.  
+- 🌱 Estudando Python e Java.
+<div style="display: inline_block"><br>
+<a href="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" target="_blank" title="HTML5"><img height="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png"/></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank" title="Java"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
+</div>
+<div align='center'>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur13&show_icons=true&theme=radical" />  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur13&layout=compact&theme=radical" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
