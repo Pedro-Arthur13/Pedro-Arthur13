@@ -7,8 +7,8 @@ Faço curso técnico e integrado em informática no <a href='https://ifpb.edu.br
 ## Sobre meus conhecimentos.  
 - 🌱 Estudando Python e Java.
 <div style="display: center">
-<a href="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" target="_blank" title="HTML5"><img height="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png"/></a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank" title="Java"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
+ <a href="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" target="_blank" title="HTML5"><img height="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png"/></a>
+<a href="https://docs.oracle.com/en/java/" target="_blank" title="Java"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
 </div>  
 <br>
 <br>
