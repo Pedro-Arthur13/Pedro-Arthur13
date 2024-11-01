@@ -20,3 +20,9 @@ Faço curso técnico e integrado em informática no <a href='https://ifpb.edu.br
 <div align='center'>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur13&show_icons=true&theme=radical" />  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur13&layout=compact&theme=radical" />
 </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=c&logoColor=white" alt="Assembly">
+</p>
