@@ -2,7 +2,7 @@
 ## Sobre mim
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+There+%F0%9F%96%96%F0%9F%8F%BB!;Sou+um+programador+incitante.;Estou+estudando+python+e+java.)](https://git.io/typing-svg)  
 Estou iniciando no mundo da programação e suas tecnologias.   
-Apaixonado por física e programação.  
+Apaixonado por física, programação e desenhos animados.  
 Faço curso técnico e integrado em informática no <a href='https://ifpb.edu.br/'>IFPB</a> Campus Cajazeiras-PB.
 
 ## Sobre meus conhecimentos.  
