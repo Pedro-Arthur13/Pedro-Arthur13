@@ -8,23 +8,21 @@ I’m currently enrolled in a technical and integrated IT course at <a href='htt
 ## About My Knowledge  
 
 - 🌱 I’m studying Python and Java.  
-<div style="margin-right: 10;">
  <a><img height="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png"/></a>
 <a><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
-</div>  
 <br>
 <br>
 
-## I use Arch, btw.
+## <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux Icon"> I use Arch, btw. 
 
 <div align='center'>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur13&show_icons=true&theme=radical" />  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur13&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur13&show_icons=true&theme=dark" />  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur13&theme=dark&langs_count=3&layout=donut" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=c&logoColor=white" alt="Assembly">
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=c&logoColor=blue" alt="Assembly">
   <img src="https://img.shields.io/badge/-Arch%20Linux-grey?style=for-the-badge&logo=archlinux" alt="Arch">
 </p>
