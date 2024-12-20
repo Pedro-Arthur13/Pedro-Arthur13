@@ -16,7 +16,7 @@ I’m currently enrolled in a technical and integrated IT course at <a href='htt
 ## <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux Icon"> I use Arch, btw. 
 
 <div align='center'>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur13&show_icons=true&theme=dark" />  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur13&theme=dark&langs_count=3&layout=donut" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur13&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur13&theme=dark&langs_count=3&layout=donut" />
 </div>
 
 <p align="center">
