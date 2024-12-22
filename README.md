@@ -26,3 +26,5 @@ I’m currently enrolled in a technical and integrated IT course at <a href='htt
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=c&logoColor=blue" alt="Assembly">
   <img src="https://img.shields.io/badge/-Arch%20Linux-grey?style=for-the-badge&logo=archlinux" alt="Arch">
 </p>
+
+![](github-user-contribution.svg)
