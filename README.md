@@ -24,8 +24,8 @@
 -  Reading HQ/Manga
 -  Music
 -  Competitive programming
-
-<h2 align="center" style="color: #FF0000;">  Knowledge</h2>
+<br>
+<h2 align="center" style="color: #FF0000;">   Knowledge</h2>
 <!-- Título alterado para vermelho -->
 
 <p>
@@ -38,7 +38,7 @@
 <p align="center"><img src="https://img.shields.io/badge/python%20-%232776D1.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/rust%20-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/vim%20-%23030A2D.svg?&style=for-the-badge&logo=vim&logoColor=white"/> <img src="https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/low%20level%20programming-%23FFD700.svg?&style=for-the-badge"/><br>
  <img src="https://img.shields.io/badge/arch%20linux-%23000B4A.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/> <img src="https://img.shields.io/badge/assembly%20-%23A53F1A.svg?&style=for-the-badge&logo=assembly&logoColor=white"/><br><br>
-I am passionate about low-level programming languages and spend a lot of time in Vim and the Bash terminal. Currently, I’m studying Python, Java, Rust, and Assembly.
+I am passionate about low-level programming languages and spend a lot of time in Vim and the Bash terminal. Currently, I’m studying Python, Java and Rust.
 </p>
 <br>
 <br>
