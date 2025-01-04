@@ -72,6 +72,14 @@ I am passionate about low-level programming languages and spend a lot of time in
 
 <br>
 <br>
+<div align="center" >
 
- 
+ ![](github-user-contribution.svg)
+
+ <div align="center"> <img src="https://media.tenor.com/Rp0U7bdOhSUAAAAj/anime.gif" alt="First GIF Icon" height="50" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+
+![Visitor Count](https://profile-counter.glitch.me/Pedro-Arthur13/count.svg) 
+
+</div>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
