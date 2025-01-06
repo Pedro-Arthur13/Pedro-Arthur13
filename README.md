@@ -63,9 +63,15 @@ I am passionate about low-level programming languages and spend a lot of time in
 
 <!-- Stats Section -->
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur13&theme=dark&langs_count=3&layout=donut" />
-<br />
-<img height="150" width="300" src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur13&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
 
+
+<img height="150" width="300" src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur13&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
+<a href="https://leetcode.com/u/pedro-arthur13/" target="_blank">
+  <img height="150" width="300"
+    src="https://leetcard.jacoblin.cool/pedro-arthur13?theme=dark&font=Bowlby%20One&ext=contest"
+    alt="LeetCode Profile"
+  />
+</a>
 </div>
 
 
@@ -73,6 +79,8 @@ I am passionate about low-level programming languages and spend a lot of time in
 <br>
 <br>
 <div align="center" >
+
+
 
  ![](github-user-contribution.svg)
 
