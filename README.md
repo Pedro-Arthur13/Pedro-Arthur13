@@ -71,10 +71,20 @@ I am passionate about low-level programming languages and spend a lot of time in
     src="https://leetcard.jacoblin.cool/pedro-arthur13?theme=dark&font=Bowlby%20One&ext=contest"
     alt="LeetCode Profile"
   />
+  
 </a>
+
+  <img align="right"  src="https://e.snmc.io/i/600/s/33d8abd22d2489ec363c2bfc87c77c46/10456680/arctic-monkeys-i-bet-you-look-good-on-the-dancefloor-Cover-Art.jpg" height="120">
+  <img align="right" src="https://m.media-amazon.com/images/I/81x1drakpHS._UF1000,1000_QL80_.jpg" height="120">
+  <img align="right" src="https://m.media-amazon.com/images/I/81sBKBIcwvL._UF1000,1000_QL80_.jpg" height="120">
+
 </div>
 
-
+<br>
+<br>
+<div align="center" >
+   
+</div>
 
 <br>
 <br>
