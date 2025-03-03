@@ -62,7 +62,7 @@ I am passionate about low-level programming languages and spend a lot of time in
 </div>
 
 <!-- Stats Section -->
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur13&theme=dark&langs_count=3&layout=donut" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur13&theme=dark&langs_count=4&layout=donut" />
 
 
 <img height="150" width="300" src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur13&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
