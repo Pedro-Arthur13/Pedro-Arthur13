@@ -77,7 +77,7 @@ I am passionate about low-level programming, the beauty of order, and the truth 
     src="https://leetcard.jacoblin.cool/pedro-arthur13?theme=dark&font=Bowlby%20One&ext=contest"
     alt="LeetCode Profile" />
 </a>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Arthur13&theme=dark" alt="Profile Details"  height="135">
+<img src="https://streak-stats.demolab.com?user=Pedro-Arthur13&theme=react" alt="Pedro-Arthur13's GitHub Streak" width="350">
 
 
 
