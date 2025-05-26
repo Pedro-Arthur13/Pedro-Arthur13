@@ -44,6 +44,7 @@ I am passionate about low-level programming, the beauty of order, and the truth 
 <br>
 <br>
 
+
 <h2 align="center" style="color: #FF0000;">  Activity Graph</h2>
 <!-- Título alterado para vermelho -->
 <div style="width: 1000px">
@@ -63,7 +64,7 @@ I am passionate about low-level programming, the beauty of order, and the truth 
 <!-- Image Section -->
 <div align="center">
  <p>
-    <img height="auto" width="450" align="right" src="https://m.media-amazon.com/images/I/91sJfNzM4uL.jpg" align="center" style="border-radius: 15px;">
+    <img height="auto" width="450" align="right" src="https://static.trinityroad.com/sites/gf/2015/09/velasquez-coronacion-Copy-770x1024.jpg" align="center" style="border-radius: 15px;">
  </p>
 </div>
 
@@ -76,6 +77,7 @@ I am passionate about low-level programming, the beauty of order, and the truth 
     src="https://leetcard.jacoblin.cool/pedro-arthur13?theme=dark&font=Bowlby%20One&ext=contest"
     alt="LeetCode Profile" />
 </a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jm1s7k0xfyt4fnbs3giaz2dc3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jm1s7k0xfyt4fnbs3giaz2dc3&redirect=true)
 
 
 </div>
