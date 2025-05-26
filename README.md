@@ -63,7 +63,7 @@ I am passionate about low-level programming, the beauty of order, and the truth 
 <!-- Image Section -->
 <div align="center">
  <p>
-    <img height="450" width="auto" align="right" src="https://m.media-amazon.com/images/I/91sJfNzM4uL.jpg" align="center" style="border-radius: 15px;">
+    <img height="auto" width="450" align="right" src="https://m.media-amazon.com/images/I/91sJfNzM4uL.jpg" align="center" style="border-radius: 15px;">
  </p>
 </div>
 
