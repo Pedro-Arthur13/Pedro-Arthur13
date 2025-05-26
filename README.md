@@ -77,7 +77,8 @@ I am passionate about low-level programming, the beauty of order, and the truth 
     src="https://leetcard.jacoblin.cool/pedro-arthur13?theme=dark&font=Bowlby%20One&ext=contest"
     alt="LeetCode Profile" />
 </a>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jm1s7k0xfyt4fnbs3giaz2dc3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jm1s7k0xfyt4fnbs3giaz2dc3&redirect=true)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedro-Arthur13&theme=dark" alt="Profile Details"  height="135">
+
 
 
 </div>
