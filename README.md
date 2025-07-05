@@ -1,8 +1,8 @@
 <img width="1000px" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=header"/>
 <!-- Cabeçalho alterado para vermelho -->
 
-<h2 align="center">   <img height="40" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Arch Linux Icon"> Hello There 🖖🏻, I'm Pedro Arthur  </h2>
-<h2 align="center" > <img height="40" src="https://lh5.googleusercontent.com/proxy/e2L8eW12ttJQC5vOlgEpQgHjd9gZcalI_dKNL7v1CK8Zo1C_9PQmmHsaMeNsZUDxTfzpej03eoDBFyB-8siN-AT5BaoTTjRYzoEIP4MSHFwYEQ" alt="Cruz de Malta"> About Me <img height="40" src="https://lh5.googleusercontent.com/proxy/e2L8eW12ttJQC5vOlgEpQgHjd9gZcalI_dKNL7v1CK8Zo1C_9PQmmHsaMeNsZUDxTfzpej03eoDBFyB-8siN-AT5BaoTTjRYzoEIP4MSHFwYEQ" alt="Cruz de Malta"></h2>  
+<h2 align="center"> Hello There 🖖🏻, I'm Pedro Arthur  </h2>
+<h2 align="center" >  About Me </h2>  
 <div>
  <div align="center">
 <img height="500"  src="https://i.pinimg.com/474x/ef/37/4a/ef374a387ea359cacd2b1e10fb2bd697.jpg" alt="Christ is Lord" align="right">
@@ -24,6 +24,10 @@
 -  Catholic philosophy and theology
 -  Silence and self-discipline
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <h2 align="center" style="color: #FF0000;">   Knowledge</h2>
 <!-- Título alterado para vermelho -->
@@ -54,7 +58,7 @@ I am passionate about low-level programming, the beauty of order, and the truth 
 
 
 <h2 align="center" style="color: #FF0000;">   
-  <img height="20" src="https://cdn1.iconfinder.com/data/icons/universal-signs-symbols/128/cross-decorative-512.png" alt="Holy cross icon"> 
+  
 
   Fiat voluntas Dei.
 
