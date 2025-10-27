@@ -30,9 +30,9 @@
   <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 
 - **Currently Learning:**<br>
-  <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+  <a href="#"><img alt="CPP" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
   <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-  <a href="#"><img alt="Data Structures" src="https://img.shields.io/badge/Data_Structures-2088C9?style=for-the-badge"></a>
+  <a href="#"><img alt="DSA" src="https://img.shields.io/badge/DSA-2088C9?style=for-the-badge"></a>
 
 <p>&nbsp;</p>
 
